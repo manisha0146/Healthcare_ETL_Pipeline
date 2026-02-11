@@ -22,7 +22,8 @@ The pipeline follows this logic flow:
     D --> G[BigQuery Analysis Table]
 
 
-⚙️ Prerequisites
+# Prerequisites
+
 Before running this pipeline, ensure you have the following:
 
 Google Cloud Platform (GCP) Account with billing enabled.
